@@ -4,16 +4,16 @@ $slides = [
         'img' => 'home-one-0.png',
     ],
     [
-        'img' => 'home-one-1.png',
-    ],
-    [
-        'img' => 'home-one-2.png',
+        'img' => 'home-one-4.png',
     ],
     [
         'img' => 'home-one-3.png',
     ],
     [
-        'img' => 'home-one-4.png',
+        'img' => 'home-one-1.png',
+    ],
+    [
+        'img' => 'home-one-2.png',
     ],
 ]
 ?>

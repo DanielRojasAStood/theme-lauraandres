@@ -1,4 +1,4 @@
-<section class="sectionPostboda">
+<section class="sectionPostboda" id="post-boda">
     <div class="sectionPostboda__bckg">
         <img class="sectionPostboda__bckg-img" src="<?php echo IMG_BASE . 'post-boda.webp'; ?>" alt="">
         <div class="sectionPostboda__box">
@@ -15,7 +15,7 @@
                 <p class="heading--22 color--4D4D4D">Isleta Hotel Las Islas Baru</p>
                 <p class="heading--14 color--4D4D4D pb--10" style="margin-top: -5px">CARTAGENA, COLOMBIA</p>
                 <a href="" class="button button-primary m-auto" target="_blank">UBICACIÓN</a>
-                <a href="" class="button button-primary m-auto" target="_blank">UBICACIÓN</a>
+                <button type="button" class="button button-primary m-auto" data-open-modal="modal-1">VESTIMENTA</button>
             </div>
         </div>
     </div>

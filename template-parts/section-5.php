@@ -5,9 +5,9 @@
                 <img src="<?php echo IMG_BASE . 'cartagena-1.png'; ?>" alt="">
             </div>
             <div class="sectionCartagena__item">
-                <a href="/cartagena#bares" class="heading--16 color--4D4D4D">HOTELES</a>
-                <a href="/cartagena#bares" class="heading--16 color--4D4D4D">RESTAURANTES</a>
-                <a href="/cartagena#bares" class="heading--16 color--4D4D4D">BRUNCH & POSTRES</a>
+                <a href="/cartagena#hoteles" class="heading--16 color--4D4D4D">HOTELES</a>
+                <a href="/cartagena#restaurantes" class="heading--16 color--4D4D4D">RESTAURANTES</a>
+                <a href="/cartagena#postres" class="heading--16 color--4D4D4D">BRUNCH & POSTRES</a>
             </div>
             <div class="sectionCartagena__item">
                 <img src="<?php echo IMG_BASE . 'cartagena-2.png'; ?>" alt="">

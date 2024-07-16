@@ -46,14 +46,6 @@ $places = [
                 "image" => IMG_BASE . 'slick-images/slick-image-14.png',
             ],
             [
-                "name" => "Colombitalia Arepas",
-                "address" => "Por estas arepas la gente hace fila durante horas. Con una fusión de lo mejor de la cocina colombiana e italiana, Colombitalia deleita a sus clientes con una amplia variedad de sabores auténticos.",
-                "city" => "",
-                "phone" => "",
-                "link" => "",
-                "image" => IMG_BASE . 'slick-images/slick-image-15.png',
-            ],
-            [
                 "name" => "Convento Santa Cruz de la Popa",
                 "address" => "El convento, claustro y capilla de Nuestra Señora de la Candelaria de la Popa se encuentran en la cima del Cerro de la Popa en Cartagena. Multitudes de devotos hacen una peregrinación a pie hasta la cima del cerro de la Popa.",
                 "city" => "",

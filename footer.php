@@ -3,9 +3,9 @@
     <h2 class="heading--30 color--AB9983">#Lau&Tin</h2>
   </div>
    <!-- Modals -->
-  <!-- <section class="modal" style="display: none" data-modal="modal-1">
+  <section class="modal" style="display: none" data-modal="modal-1">
     <div class="modal__wrapper">
-      <div class="modal__body">
+      <div class="modal__body img">
         <button type="button" data-close-modal>
         <?php 
             $icon_name = 'icon-close';
@@ -13,14 +13,15 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img
-          src="<?php echo IMG_BASE . 'dress-code-bienvenida.webp' ?>"
-          alt=""
-          id=""
-        />
+        <div class="img-left">
+          <img src="<?php echo IMG_BASE . 'vestimenta-2.webp' ?>" alt="" id="" />
+        </div>
+        <div class="img-right">
+          <img src="<?php echo IMG_BASE . 'vestimenta-1.webp' ?>" alt="" id="" />
+        </div>
       </div>
     </div>
-  </section> -->
+  </section>
 </footer>
 
 <script>

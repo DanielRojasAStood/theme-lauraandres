@@ -6,7 +6,7 @@
         </div>
         <div class="map__center">
             <p class="heading--24 color--4D4D4D">RAFAEL NUÑEZ</p>
-            <p class="heading--14 color--959595">INTERNATIONAL AIRPORT</p>
+            <p class="heading--14 color--959595">AEROPUERTO INTERNACIONAL</p>
             <p class="heading--14 color--959595" style="margin-top: -8px">Cartagena, Colombia.</p>
         </div>
         <p class="heading--14 color--666">

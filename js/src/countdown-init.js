@@ -10,16 +10,16 @@ function countdownTimer(seconds) {
     document.getElementById("countdown-timer").innerHTML =
       "<div>" +
       c_days +
-      "<span>Days</span></div>" +
+      "<span>Días</span></div>" +
       "<div>" +
       c_hrs +
-      " <span>Hours</span></div>" +
+      " <span>Horas</span></div>" +
       "<div>" +
       c_min +
-      " <span>Minutes</span></div>" +
+      " <span>Minutos</span></div>" +
       "<div>" +
       c_sec +
-      " <span>Seconds</span></div>";
+      " <span>Segundos</span></div>";
 
     setTimeout(function () {
       countdownTimer(seconds - 1);

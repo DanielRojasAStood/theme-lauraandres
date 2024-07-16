@@ -20,7 +20,7 @@
             <a href="https://maps.app.goo.gl/vEmwgWh2gVgKPqVG9" target="_blanck" class="button button--primary m-auto">UBICACIÓN</a>
             <div class="flex flex--center gap--20">
             <button type="button" class="button button-primary" data-open-modal="modal-1">VESTIMENTA</button>
-            <a href="" target="_blanck" class="button button--primary">REGALOS</a>
+            <a href="" target="_blanck" class="button button--primary" style="cursor: not-allowed;">LLUVIA DE SOBRES</a>
             </div>
         </div>
     </div>

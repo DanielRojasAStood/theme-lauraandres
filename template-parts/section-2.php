@@ -19,7 +19,7 @@
             <p class="heading--28 color--4D4D4D">CASA 1537</p>
             <a href="https://maps.app.goo.gl/vEmwgWh2gVgKPqVG9" target="_blanck" class="button button--primary m-auto">UBICACIÓN</a>
             <div class="flex flex--center gap--20">
-            <button type="button" class="button button-primary" data-open-modal="modal-1">VESTIMENTA</button>
+            <button type="button" class="button button-primary m-auto" data-open-modal="modal-1">VESTIMENTA</button>
             <a href="" target="_blanck" class="button button--primary" style="cursor: not-allowed;padding: 0 20px">LLUVIA DE SOBRES</a>
             </div>
         </div>

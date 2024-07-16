@@ -10,7 +10,7 @@
                     Post Boda
                     <div class="line"></div>
                 </h2>
-                <p class="heading--22 color--4D4D4D">INFORMACIÓN MÁS ADELANTE</p>
+                <p class="heading--22 color--4D4D4D">INFORMACIÓN <br> MÁS ADELANTE</p>
                 <!-- <p class="heading--22 color--4D4D4D">Octubre 5, 2024</p>
                 <p class="heading--22 color--4D4D4D">5:00 p.m.</p>
                 <p class="heading--22 color--4D4D4D">Isleta Hotel Las Islas Baru</p>

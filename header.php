@@ -50,8 +50,8 @@
       <li><a class="header__link" href="/">NUESTRA BODA</a></li>
       <li><a class="header__link">EVENTOS</a></li>
       <li><a class="header__link header__link-logo">LAURA & ANDRÉS</a></li>
-      <li><a class="header__link">CARTAGENA</a></li>
-      <li><a class="header__link header__link-cta">R.S.V.P.</a></li>
+      <li><a class="header__link" href="/cartagena/">CARTAGENA</a></li>
+      <li><a class="header__link header__link-cta" href="/r-s-v-p/">R.S.V.P.</a></li>
     </ul>
   </nav>
   <button type="button" class="header__button" data-toggle-menu>
@@ -68,8 +68,8 @@
       <li><a class="header__link" href="/">NUESTRA BODA</a></li>
       <li><a class="header__link">EVENTOS</a></li>
       <li><a class="header__link header__link-logo">LAURA & ANDRÉS</a></li>
-      <li><a class="header__link">CARTAGENA</a></li>
-      <li><a class="header__link header__link-cta">R.S.V.P.</a></li>
+      <li><a class="header__link" href="/cartagena/">CARTAGENA</a></li>
+      <li><a class="header__link header__link-cta" href="/r-s-v-p/">R.S.V.P.</a></li>
     </ul>
   </nav>
 </section>

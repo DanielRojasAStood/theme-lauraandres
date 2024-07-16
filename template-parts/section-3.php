@@ -10,10 +10,10 @@
                     Post Boda
                     <div class="line"></div>
                 </h2>
-                <p class="heading--22 color--4D4D4D">Octubre 5, 2024</p>
+                <!-- <p class="heading--22 color--4D4D4D">Octubre 5, 2024</p>
                 <p class="heading--22 color--4D4D4D">5:00 p.m.</p>
                 <p class="heading--22 color--4D4D4D">Isleta Hotel Las Islas Baru</p>
-                <p class="heading--14 color--4D4D4D pb--10" style="margin-top: -5px">CARTAGENA, COLOMBIA</p>
+                <p class="heading--14 color--4D4D4D pb--10" style="margin-top: -5px">CARTAGENA, COLOMBIA</p> -->
                 <a href="" class="button button-primary m-auto" target="_blank">UBICACIÓN</a>
                 <a href="#" class="button button-primary m-auto" target="_blank">VESTIMENTA</a>
             </div>

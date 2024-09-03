@@ -14,10 +14,10 @@
         ?>
         </button>
         <div class="img-left">
-          <img src="<?php echo IMG_BASE . 'vestimenta-2.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'vestimenta-2.webp' ?>" alt="" id="" />
         </div>
         <div class="img-right">
-          <img src="<?php echo IMG_BASE . 'vestimenta-1.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'vestimenta-1.webp' ?>" alt="" id="" />
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-          <img src="<?php echo IMG_BASE . 'lluvia-de-sobres.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'lluvia-de-sobres.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -47,7 +47,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-          <img src="<?php echo IMG_BASE . 'horario-detalles.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'horario-detalles-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -61,7 +61,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-          <img src="<?php echo IMG_BASE . 'dresscode-whiteparty.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-whiteparty-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>

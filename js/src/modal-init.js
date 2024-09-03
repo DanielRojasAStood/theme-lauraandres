@@ -17,4 +17,10 @@ function closeModal() {
   $modals.fadeOut();
 }
 
+$('.modal').click(function(event) {
+  if (!$(event.target).is('.modal-image')) {
+    $(this).fadeOut(); 
+  }
+});
+
 export { openModal, closeModal };

@@ -37,6 +37,34 @@
       </div>
     </div>
   </section>
+  <section class="modal" style="display: none" data-modal="modal-3">
+    <div class="modal__wrapper">
+      <div class="modal__body">
+        <button type="button" data-close-modal>
+        <?php 
+            $icon_name = 'icon-close';
+            get_template_part('template-parts/content', 'icono');
+            display_icon($icon_name); 
+        ?>
+        </button>
+          <img src="<?php echo IMG_BASE . 'horario-detalles.webp' ?>" alt="" id="" />
+      </div>
+    </div>
+  </section>
+  <section class="modal" style="display: none" data-modal="modal-4">
+    <div class="modal__wrapper">
+      <div class="modal__body">
+        <button type="button" data-close-modal>
+        <?php 
+            $icon_name = 'icon-close';
+            get_template_part('template-parts/content', 'icono');
+            display_icon($icon_name); 
+        ?>
+        </button>
+          <img src="<?php echo IMG_BASE . 'dresscode-whiteparty.webp' ?>" alt="" id="" />
+      </div>
+    </div>
+  </section>
 </footer>
 
 <script>
